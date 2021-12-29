@@ -1,0 +1,46 @@
+[1211/085414:ERROR:process_info.cc(608)] range at 0xff623000, size 0x230 fully unreadable
+[1211/085416:ERROR:process_info.cc(608)] range at 0xff62f000, size 0xf84 fully unreadable
+[1211/085416:ERROR:process_info.cc(608)] range at 0xff62b000, size 0xf84 fully unreadable
+[1211/085416:ERROR:process_info.cc(608)] range at 0xff628000, size 0xf84 fully unreadable
+[1211/085416:ERROR:process_info.cc(608)] range at 0xff4ff000, size 0xf84 fully unreadable
+[1211/085416:ERROR:process_info.cc(608)] range at 0xff4fc000, size 0xf84 fully unreadable
+[1211/085416:ERROR:process_info.cc(608)] range at 0xff4f9000, size 0xf84 fully unreadable
+[1211/085416:ERROR:process_info.cc(608)] range at 0xff4f6000, size 0xf84 fully unreadable
+[1211/085416:ERROR:process_info.cc(608)] range at 0xff4f3000, size 0xf84 fully unreadable
+[1211/085416:ERROR:process_info.cc(608)] range at 0xff4f0000, size 0xf84 fully unreadable
+[1211/085416:ERROR:process_info.cc(608)] range at 0xff4ed000, size 0xf84 fully unreadable
+[1211/085416:ERROR:process_info.cc(608)] range at 0xff4ea000, size 0xf84 fully unreadable
+[1211/085416:ERROR:process_info.cc(608)] range at 0xff4e7000, size 0xf84 fully unreadable
+[1211/085416:ERROR:process_info.cc(608)] range at 0xff4d5000, size 0xf84 fully unreadable
+[1211/085416:ERROR:process_info.cc(608)] range at 0xff4cf000, size 0xf84 fully unreadable
+[1211/085416:ERROR:process_info.cc(608)] range at 0xff4e4000, size 0xf84 fully unreadable
+[1211/085416:ERROR:process_info.cc(608)] range at 0xff4e1000, size 0xf84 fully unreadable
+[1211/085416:ERROR:process_info.cc(608)] range at 0xff4de000, size 0xf84 fully unreadable
+[1211/085416:ERROR:process_info.cc(608)] range at 0xff4db000, size 0xf84 fully unreadable
+[1211/085416:ERROR:process_info.cc(608)] range at 0xff4d8000, size 0xf84 fully unreadable
+[1211/085416:ERROR:process_info.cc(608)] range at 0xff4d2000, size 0xf84 fully unreadable
+[1211/085416:ERROR:process_info.cc(608)] range at 0xff4cc000, size 0xf84 fully unreadable
+[0329/220046.932:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: The pipe is being closed. (0xE8)
+[1211/160141.444:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1211/160141.510:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1211/160141.511:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1211/160141.511:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1211/160141.511:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1211/160141.511:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1211/160141.734:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1211/160141.734:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1211/160141.734:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1211/160142.029:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1211/160142.030:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1211/160142.030:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0402/231941.723:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0402/231941.756:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0402/231941.756:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0722/214839.055:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0722/214839.095:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0722/214839.095:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0722/214839.095:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0905/202529.017:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0905/202529.059:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0905/202529.059:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0905/202529.059:ERROR:crash_report_database_win.cc(469)] failed to stat report
